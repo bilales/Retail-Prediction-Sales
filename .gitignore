@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory
+# Replace with your virtual environment directory name if it's different
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# Jupyter Notebook output files
+# Uncomment this if you do not want to track notebook outputs
+# *.ipynb
+
+# macOS specific files
+.DS_Store
+
+# Environment files
+.env
+.venv
